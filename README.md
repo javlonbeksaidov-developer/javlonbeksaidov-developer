@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"/>
   </p>
 
-  <h2 align="center">📊 GitHub Statistikasi</h2>
+  <h2 align="center">📊 GitHub Statistics</h2>
   
   <img height="180em" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=javlonbeksaidov-developer&theme=tokyonight"/>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:javlonbeksaidov09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/javlonbek-saidov-566572399">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
