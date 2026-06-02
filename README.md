@@ -15,15 +15,14 @@
 <table>
   <tr>
     <td width="55%">
-      <h2>👨‍💻 About Me</h2> <br/>
+      <h2>👨‍💻 About Me</h2>
       🔭 Currently working on Django Projects <br/>
       🌱 Learning Python, Django and PostgreSQL <br/>
       💡 Passionate about Web Development <br/>
       🎯 Goal: Become a Professional Backend Developer <br/>
-      ⚡ Fun Fact: I enjoy building useful software <br/>
+      ⚡ Fun Fact: I enjoy building useful software
       
-  🛠 Texnologiyalar
-
+  <h2>🛠 Texnologiyalar</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"/>
   </p>
