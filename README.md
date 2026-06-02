@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/robot.gif" width="100%" alt="Banner" />
+  <img src="images/robot.gif" width="40%" alt="Banner" />
 
   <h1>👋 Assalomu alaykum, men Javlonbek Saidov</h1>
 
@@ -11,23 +11,24 @@
 <table>
   <tr>
     <td width="55%">
-      ### 👨‍💻 Men haqimda - 🔭 Hozirda Django loyihalari ustida ishlayman - 🌱
-      Python, Django, PostgreSQL o‘rganmoqdaman - 💡 Web ilovalar yaratishga
-      qiziqaman - 🎯 Maqsad: Professional Backend Developer bo‘lish ### 🛠
-      Texnologiyalar
+      👨‍💻 Men haqimda - 
+      🔭 Hozirda Django loyihalari ustida ishlayman
+      🌱 Python, Django, PostgreSQL o‘rganmoqdaman 
+      💡 Web ilovalar yaratishga qiziqaman 
+      🎯 Maqsad: Professional Backend Developer bo‘lish 
+      
+  🛠 Texnologiyalar
 
   <p>
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"/>
   </p>
 
-  ### 📊 GitHub Statistikasi
+  📊 GitHub Statistikasi
 
-  <img
-    height="180em"
+  <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-
-  <img 
-    height="180em" 
+  
+  <img height="180em" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
   </td>
 
@@ -37,7 +38,7 @@
   </tr>
 </table>
 
---- ### 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <img src="images/snake_game.svg" />
