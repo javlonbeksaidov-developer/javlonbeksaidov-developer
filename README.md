@@ -15,7 +15,7 @@
       🔭 Hozirda Django loyihalari ustida ishlayman <br/>
       🌱 Python, Django, PostgreSQL o‘rganmoqdaman <br/>
       💡 Web ilovalar yaratishga qiziqaman <br/>
-      🎯 Maqsad: Professional Backend Developer bo‘lish 
+      🎯 Maqsad: Professional Backend Developer bo‘lish <br/>
       
   🛠 Texnologiyalar
 
