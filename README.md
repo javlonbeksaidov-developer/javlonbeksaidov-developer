@@ -24,9 +24,6 @@
   </p>
 
   📊 GitHub Statistikasi
-
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight"/>
   
   <img height="180em" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=javlonbeksaidov-developer&theme=tokyonight"/>
