@@ -2,7 +2,7 @@
   <img src="images/robot.gif" width="40%" alt="Banner" />
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Python+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Python+Enthusiast;Always+Learning+New+Things"/>
 </p>
 
   <h1>👋 Assalomu alaykum, I am Javlonbek Saidov</h1>
@@ -15,11 +15,12 @@
 <table>
   <tr>
     <td width="55%">
-      👨‍💻 Men haqimda - <br/>
-      🔭 Hozirda Django loyihalari ustida ishlayman <br/>
-      🌱 Python, Django, PostgreSQL o‘rganmoqdaman <br/>
-      💡 Web ilovalar yaratishga qiziqaman <br/>
-      🎯 Maqsad: Professional Backend Developer bo‘lish <br/>
+      <h2>👨‍💻 About Me</h2> <br/>
+      🔭 Currently working on Django Projects <br/>
+      🌱 Learning Python, Django and PostgreSQL <br/>
+      💡 Passionate about Web Development <br/>
+      🎯 Goal: Become a Professional Backend Developer <br/>
+      ⚡ Fun Fact: I enjoy building useful software <br/>
       
   🛠 Texnologiyalar
 
