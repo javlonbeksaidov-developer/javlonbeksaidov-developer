@@ -43,16 +43,22 @@
 
 ---
 
-<div align="center">
-  🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-  <br/>
-
+<p align="center">
   <a href="https://t.me/saidov_1701">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/javlonbeksaidov-developer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
