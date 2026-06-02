@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="55%">
-      <h2>👨‍💻 About Me</h2>
+      <h2 align="center">👨‍💻 About Me</h2>
       🔭 Currently working on Django Projects <br/>
       🌱 Learning Python, Django and PostgreSQL <br/>
       💡 Passionate about Web Development <br/>
@@ -39,8 +39,7 @@
   </tr>
 </table>
 
-🐍 Contribution Snake
-
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="images/snake_game.svg" />
 </p>
