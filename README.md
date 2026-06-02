@@ -1,7 +1,7 @@
 <div align="center">
   <img src="images/robot.gif" width="40%" alt="Banner" />
 
-  <h1>👋 Assalomu alaykum, men Javlonbek Saidov</h1>
+  <h1>👋 Assalomu alaykum, I am Javlonbek Saidov</h1>
 
   <h3>🚀 Backend Developer | Django Developer | Python Enthusiast</h3>
 </div>
@@ -26,10 +26,10 @@
   📊 GitHub Statistikasi
 
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight"/>
   
   <img height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=javlonbeksaidov-developer&theme=tokyonight"/>
   </td>
 
   <td width="45%" align="center">
