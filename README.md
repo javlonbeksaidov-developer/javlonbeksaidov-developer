@@ -16,28 +16,24 @@
       qiziqaman - 🎯 Maqsad: Professional Backend Developer bo‘lish ### 🛠
       Texnologiyalar
 
-      <p>
-        <img
-          src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"
-        />
-      </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"/>
+  </p>
 
-      ### 📊 GitHub Statistikasi
+  ### 📊 GitHub Statistikasi
 
-      <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"
-      />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
 
-      <img
-        height="180em"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"
-      />
-    </td>
+  <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight"/>
+  </td>
 
-    <td width="45%" align="center">
-      <img src="images/working.gif" width="350" />
-    </td>
+  <td width="45%" align="center">
+  <img src="images/working.gif" width="350" />
+  </td>
   </tr>
 </table>
 
