@@ -22,12 +22,12 @@
       🎯 Goal: Become a Professional Backend Developer <br/>
       ⚡ Fun Fact: I enjoy building useful software
       
-  <h2>🛠 Texnologiyalar</h2>
+  <h2 align="center">🛠 Tech Stack</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"/>
   </p>
 
-  📊 GitHub Statistikasi
+  <h2 align="center">📊 GitHub Statistikasi</h2>
   
   <img height="180em" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=javlonbeksaidov-developer&theme=tokyonight"/>
