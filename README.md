@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td width="55%">
-      👨‍💻 Men haqimda - 
-      🔭 Hozirda Django loyihalari ustida ishlayman
-      🌱 Python, Django, PostgreSQL o‘rganmoqdaman 
-      💡 Web ilovalar yaratishga qiziqaman 
+      👨‍💻 Men haqimda - <br/>
+      🔭 Hozirda Django loyihalari ustida ishlayman <br/>
+      🌱 Python, Django, PostgreSQL o‘rganmoqdaman <br/>
+      💡 Web ilovalar yaratishga qiziqaman <br/>
       🎯 Maqsad: Professional Backend Developer bo‘lish 
       
   🛠 Texnologiyalar
