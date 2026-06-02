@@ -46,19 +46,15 @@
 ---
 
 <div align="center">
-  ### 🌐 Connect With Me
+  🌐 Connect With Me
 
   <br/>
 
-  <a href="https://t.me/USERNAME">
-    <img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-    />
+  <a href="https://t.me/saidov_1701">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/USERNAME">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+  <a href="https://github.com/javlonbeksaidov-developer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
