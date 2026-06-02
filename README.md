@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/robot.png" width="100%" alt="Banner"/>
+<img src="images/robot.gif" width="100%" alt="Banner"/>
 
 <h1>👋 Assalomu alaykum, men Javlonbek Saidov</h1>
 
