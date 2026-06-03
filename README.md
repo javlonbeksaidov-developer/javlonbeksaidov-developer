@@ -27,10 +27,6 @@
     <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux"/>
   </p>
 
-  <h2 align="center">📊 GitHub Statistics</h2>
-  
-  <img height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=javlonbeksaidov-developer&theme=tokyonight"/>
   </td>
 
   <td width="45%" align="center">
