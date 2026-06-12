@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/javlonbeksaidov-developer/count.svg" alt="Visitor Counter" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjavlonbeksaidov-developer&count_bg=%2300D9FF&title_bg=%231A1B26&icon=&icon_color=%23E0E0E0&title=Visits&edge_flat=false" alt="Hits Counter"/>
 </p>
 
 ---
