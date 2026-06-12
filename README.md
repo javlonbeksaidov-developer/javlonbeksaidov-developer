@@ -52,6 +52,10 @@
   <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="81%" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/javlonbeksaidov-developer/count.svg" alt="Visitor Counter" />
+</p>
+
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
