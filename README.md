@@ -85,11 +85,18 @@
   <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="815" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight" height="195" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight" height="195" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
