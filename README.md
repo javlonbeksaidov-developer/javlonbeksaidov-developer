@@ -16,10 +16,10 @@
   <tr>
     <td width="55%">
       <h2 align="center">👨‍💻 About Me</h2>
-      🔭 Currently building Backend Projects with Django
-      🌱 Learning Django REST Framework & PostgreSQL
-      💡 Interested in Backend Architecture and APIs
-      🎯 Goal: Become a Senior Backend Engineer
+      🔭 Currently building Backend Projects with Django <br/>
+      🌱 Learning Django REST Framework & PostgreSQL <br/>
+      💡 Interested in Backend Architecture and APIs <br/>
+      🎯 Goal: Become a Senior Backend Engineer <br/>
       ⚡ Love solving real-world problems with code
       
   <h2 align="center">🛠 Tech Stack</h2>
