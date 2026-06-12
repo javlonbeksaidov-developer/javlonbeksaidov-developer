@@ -52,6 +52,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight"/>
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" />
+</p>
+
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
