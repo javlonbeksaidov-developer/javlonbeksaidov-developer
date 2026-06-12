@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="82%" />
 </p>
 
 ---
