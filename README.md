@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjavlonbeksaidov-developer&count_bg=%2300D9FF&title_bg=%231A1B26&icon=&icon_color=%23E0E0E0&title=Visits&edge_flat=false" alt="Hits Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 ---
