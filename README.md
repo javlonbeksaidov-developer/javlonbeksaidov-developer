@@ -56,6 +56,10 @@
   <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@javlonbeksaidov-developer?theme=rule34" alt="Retro Counter" />
+</p>
+
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
