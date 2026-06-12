@@ -56,10 +56,6 @@
   <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
-<p align="center">
-  <img src="https://moe-counter.glitch.me/get/@javlonbeksaidov-developer?theme=rule34" alt="Retro Counter" />
-</p>
-
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
@@ -83,4 +79,17 @@
 </p>
 
 
+<h2 align="center">📊 GitHub Analytics</h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="815" />
+</p>
