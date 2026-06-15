@@ -2,7 +2,7 @@
   <img src="images/robot.gif" width="40%" alt="Banner" />
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+Developer;Python+Enthusiast;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Building+APIs+with+Django;Learning+DRF+&+PostgreSQL;Open+Source+Enthusiast"/>
 </p>
 
   <h1>👋 Assalomu alaykum, I'm Javlonbek Saidov</h1>
