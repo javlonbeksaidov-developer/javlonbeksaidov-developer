@@ -44,9 +44,8 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight" height="180em" />
-
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
