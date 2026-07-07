@@ -42,18 +42,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight" width="81%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
