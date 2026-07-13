@@ -42,6 +42,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Javlonbek's GitHub Views" />
+</p>
+
+---
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
