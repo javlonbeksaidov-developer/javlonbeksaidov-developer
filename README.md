@@ -48,6 +48,10 @@
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=dark" alt="GitHub Streak" /></a>
+
+---
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
