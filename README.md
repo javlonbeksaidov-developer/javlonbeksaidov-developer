@@ -50,7 +50,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=dark" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=pie)](https://github.com/javlonbeksaidov-developer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
