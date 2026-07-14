@@ -12,6 +12,8 @@
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -36,6 +38,8 @@ maqsad: Senior Backend Engineer 🎯
 </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
+
 <details open>
 <summary><b>🛠 Tech Stack</b></summary>
 <br>
@@ -50,9 +54,18 @@ maqsad: Senior Backend Engineer 🎯
 </tr>
 </table>
 
+<br>
+
+**Ko'nikma darajasi**
+
+`Python`  ![](https://progress-bar.xyz/85?title=&color=00D9FF&width=200&suffix=%25)
+`Django`  ![](https://progress-bar.xyz/80?title=&color=00D9FF&width=200&suffix=%25)
+`PostgreSQL`  ![](https://progress-bar.xyz/65?title=&color=00D9FF&width=200&suffix=%25)
+`Flutter/Dart`  ![](https://progress-bar.xyz/50?title=&color=7C3AED&width=200&suffix=%25)
+
 </details>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
 
 <table width="100%">
 <tr>
@@ -73,6 +86,8 @@ maqsad: Senior Backend Engineer 🎯
 </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
+
 <div align="center">
 
 ### 🏆 Trophies
@@ -87,7 +102,7 @@ maqsad: Senior Backend Engineer 🎯
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
 
 <div align="center">
 
