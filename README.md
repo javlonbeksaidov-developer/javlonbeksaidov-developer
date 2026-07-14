@@ -53,33 +53,56 @@
     </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
+
 <div>
-    <h2 align="center">🐍 PYTHON </h2>
     <p align="center">
         <img src="images/snake_game.svg" />
     </p>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
+
 <div>
     <h2 align="center">🌐 Connect with Me</h2>
 
-  <p align="center">
-      <a href="https://t.me/saidov_1701">
-          <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-      </a>
-
-  <a href="mailto:javlonbeksaidov09@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
+<p align="center">
   <a href="https://github.com/javlonbeksaidov-developer">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/javlonbek-saidov-566572399">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/javlonbek-saidov-566572399/">
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn"/>
   </a>
-  </p>
+
+  <a href="https://t.me/saidov_1701">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+  </a>
+
+  <a href="https://facebook.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+  </a>
+
+  <a href="https://youtube.com/@YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.icons8.com/color/48/discord--v2.png" alt="Discord"/>
+  </a>
+
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/48/twitter-circled--v1.png" alt="Twitter"/>
+  </a>
+</p>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D9FF&height=100&section=footer" />
