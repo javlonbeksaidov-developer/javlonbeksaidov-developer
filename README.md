@@ -1,12 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Javlonbek%20Saidov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%7C%20Python&descAlignY=58&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Javlonbek%20Saidov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%7C%20Python&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Building+APIs+with+Django;Learning+DRF+%26+PostgreSQL;Flutter+bilan+Mobile+App'lar;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Building+APIs+with+Django;Learning+DRF+%26+PostgreSQL;Flutter+bilan+Mobile+App'lar;Open+Source+Enthusiast" alt="Typing SVG" />
 
-<p>
-    <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&style=flat-square&color=00D9FF&label=VIEWS" />
-</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Javlonbek's GitHub Views" />
 </p>
@@ -18,20 +15,21 @@
 <table width="100%">
     <tr>
         <td width="34%" valign="top">
-
-### 👨‍💻 Men haqimda ```yaml ism: Javlonbek Saidov yonalish: Software Engineering (DI23-13) universitet: TATU, Samarqand filiali holat: Django backend | Flutter o'rganmoqda internship: Najot ta'lim - Backend Python maqsad: Senior Backend Engineer 🎯
-            ```
-
+        <h2 align="center">👨‍💻 Men haqimda</h2>
+    ```yaml
+ism: Javlonbek Saidov
+yo'nalish: Software Engineering (DI23-13)
+universitet: TATU, Samarqand filiali
+holat: Django Backend Developer
+internship: Najot Ta'lim - Backend Python
+maqsad: Senior Backend Engineer 🎯
+'''
 </td>
-<td width="33%" align="center">
-
-  <img src="images/working.gif" width="280" />
-
+        <td width="33%" align="center">
+            <img src="images/working.gif" width="280" />
 </td>
-<td width="33%" align="center">
-
-  <img src="images/robot.gif" width="40%" alt="Banner" />
-
+        <td width="33%" align="center">
+            <img src="images/robot.gif" width="70%" alt="Banner" />
 </td>
     </tr>
 </table>
@@ -51,14 +49,6 @@
         </td>
         <td width="50%">
             <img width="100%" src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight&hide_border=true&background=0D1117" />
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </td>
-        <td width="50%">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
         </td>
     </tr>
 </table>
