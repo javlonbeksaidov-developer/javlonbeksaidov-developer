@@ -50,6 +50,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=dark" alt="GitHub Streak" /></a>
 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=pie)](https://github.com/javlonbeksaidov-developer/github-readme-stats)
+
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
