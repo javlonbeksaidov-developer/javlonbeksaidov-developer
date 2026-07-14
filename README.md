@@ -64,45 +64,55 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
 
 <div>
-    <h2 align="center">🌐 Connect with Me</h2>
+
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://github.com/javlonbeksaidov-developer">
-    <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/64/github.png" width="55" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/javlonbek-saidov-566572399/">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="55" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://t.me/saidov_1701">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram"/>
+    <img src="https://img.icons8.com/fluency/64/telegram-app.png" width="55" alt="Telegram"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/64/instagram-new.png" width="55" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://facebook.com/YOUR_USERNAME">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+    <img src="https://img.icons8.com/fluency/64/facebook-new.png" width="55" alt="Facebook"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://youtube.com/@YOUR_USERNAME">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
+    <img src="https://img.icons8.com/fluency/64/youtube-play.png" width="55" alt="YouTube"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="55" alt="Gmail"/>
   </a>
+  &nbsp;&nbsp;
 
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://img.icons8.com/color/48/discord--v2.png" alt="Discord"/>
+  <a href="https://discord.com/users/YOUR_ID">
+    <img src="https://img.icons8.com/fluency/64/discord-logo.png" width="55" alt="Discord"/>
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://img.icons8.com/color/48/twitter-circled--v1.png" alt="Twitter"/>
+    <img src="https://img.icons8.com/fluency/64/twitterx.png" width="55" alt="X"/>
   </a>
 </p>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D9FF&height=100&section=footer" />
