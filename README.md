@@ -54,6 +54,14 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javlonbeksaidov-developer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbeksaidov-developer&layout=donut&theme=github_dark&hide_border=true)
+
+---
+
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
