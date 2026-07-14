@@ -2,7 +2,7 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Javlonbek%20Saidov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%7C%20Python&descAlignY=58&descSize=18"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Building+APIs+with+Django;Learning+DRF+%26+PostgreSQL;Flutter+bilan+Mobile+App'lar;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Software+Engineering+Student;Django+%7C+DRF+%7C+PostgreSQL;Building+Scalable+Backend+Applications;Future+Senior+Backend+Engineer" alt="Typing SVG" />
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Javlonbek's GitHub Views" />
@@ -15,22 +15,21 @@
 <table width="100%">
     <tr>
         <td width="33%" align="center">
-            <img src="images/robot.gif" width="70%" alt="Banner" />
+          <img src="images/robot.gif" width="90%" alt="Banner" />
 </td>
         <td width="34%" valign="top">
           <h2 align="center">👨‍💻 Men haqimda</h2>
-```yaml
-👤 Name: Javlonbek Saidov
-🎓 Major: Software Engineering (DI23-13)
-🏫 University: TUIT, Samarkand Branch
-💼 Status: Backend Developer
-🚀 Internship: Najot Ta'lim – Backend Python
-🎯 Goal: Senior Backend Engineer
-```
-
+          <p>
+            👤 Name: Javlonbek Saidov
+            🎓 Major: Software Engineering (DI23-13)
+            🏫 University: TUIT, Samarkand Branch
+            💼 Status: Backend Developer
+            🚀 Internship: Najot Ta'lim – Backend Python
+            🎯 Goal: Senior Backend Engineer
+          </p>
 </td>
         <td width="33%" align="center">
-            <img src="images/working.gif" width="280" />
+          <img src="images/working.gif" width="280" />
 </td>
     </tr>
 </table>
