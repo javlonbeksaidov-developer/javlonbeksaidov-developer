@@ -14,22 +14,23 @@
 
 <table width="100%">
     <tr>
+        <td width="33%" align="center">
+            <img src="images/robot.gif" width="70%" alt="Banner" />
+</td>
         <td width="34%" valign="top">
-        <h2 align="center">👨‍💻 Men haqimda</h2>
-    ```yaml
-ism: Javlonbek Saidov
-yo'nalish: Software Engineering (DI23-13)
-universitet: TATU, Samarqand filiali
-holat: Django Backend Developer
-internship: Najot Ta'lim - Backend Python
-maqsad: Senior Backend Engineer 🎯
-'''
+          <h2 align="center">👨‍💻 Men haqimda</h2>
+```yaml
+👤 Name: Javlonbek Saidov
+🎓 Major: Software Engineering (DI23-13)
+🏫 University: TUIT, Samarkand Branch
+💼 Status: Backend Developer
+🚀 Internship: Najot Ta'lim – Backend Python
+🎯 Goal: Senior Backend Engineer
+```
+
 </td>
         <td width="33%" align="center">
             <img src="images/working.gif" width="280" />
-</td>
-        <td width="33%" align="center">
-            <img src="images/robot.gif" width="70%" alt="Banner" />
 </td>
     </tr>
 </table>
