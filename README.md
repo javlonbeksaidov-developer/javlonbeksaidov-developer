@@ -73,7 +73,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/javlonbek-saidov-566572399/">
+  <a href="https://www.linkedin.com/in/javlonbek-saidov-developer">
     <img src="https://img.icons8.com/fluency/64/linkedin.png" width="55" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -88,27 +88,27 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://facebook.com/YOUR_USERNAME">
+  <a href="https://facebook.com/javlonbeksaidov.developer">
     <img src="https://img.icons8.com/fluency/64/facebook-new.png" width="55" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://youtube.com/@YOUR_USERNAME">
+  <a href="https://youtube.com/@JavlonbekSaidov-Developer">
     <img src="https://img.icons8.com/fluency/64/youtube-play.png" width="55" alt="YouTube"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:javlonbeksaidov09@gmail.com">
     <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="55" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://discord.com/users/YOUR_ID">
+  <a href="https://discord.com/users/1526611249318596649">
     <img src="https://img.icons8.com/fluency/64/discord-logo.png" width="55" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://x.com/YOUR_USERNAME">
+  <a href="https://x.com/javlonsaidov17">
     <img src="https://img.icons8.com/fluency/64/twitterx.png" width="55" alt="X"/>
   </a>
 </p>
