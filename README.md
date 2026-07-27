@@ -43,14 +43,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
 
 <table width="100%">
-    <tr>
-        <td width="50%">
-            <img src="images/example.gif" />
-        </td>
-        <td width="50%">
-            <img src="images/spider-man-2.1920x1080.mp4" />
-        </td>
-    </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="images/example.gif" width="100%" alt="Example GIF" />
+    </td>
+    <td width="50%" align="center">
+      <video src="images/spider-man-2.1920x1080.mp4" width="100%" controls autoplay loop muted></video>
+    </td>
+  </tr>
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
