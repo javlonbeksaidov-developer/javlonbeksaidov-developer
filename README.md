@@ -45,10 +45,10 @@
 <table width="100%">
     <tr>
         <td width="50%">
-            <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=javlonbeksaidov-developer&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+            <img src="images/example.gif" />
         </td>
         <td width="50%">
-            <img width="100%" src="https://streak-stats.demolab.com?user=javlonbeksaidov-developer&theme=tokyonight&hide_border=true&background=0D1117" />
+            <img src="images/spider-man-2.1920x1080.mp4" />
         </td>
     </tr>
 </table>
