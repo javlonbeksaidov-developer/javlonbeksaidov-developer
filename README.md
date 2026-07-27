@@ -42,7 +42,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="100%">
       <p align="center">
@@ -50,7 +50,12 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
+<div>
+    <p align="center">
+        <img src="images/example.gif" alt="Example GIF" />
+    </p>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
 
