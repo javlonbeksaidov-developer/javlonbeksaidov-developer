@@ -44,8 +44,10 @@
 
 <table width="100%">
   <tr>
-    <td width="100%" align="center">
-      <img src="images/example.gif" width="100%" alt="Example GIF" />
+    <td width="100%">
+      <p align="center">
+          <img src="images/example.gif" alt="Example GIF" />
+      </p>
     </td>
   </tr>
 </table>
