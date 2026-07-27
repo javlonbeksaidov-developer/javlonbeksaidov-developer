@@ -42,15 +42,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
 
-<!-- <table width="100%">
-  <tr>
-    <td width="100%">
-      <p align="center">
-          <img src="images/example.gif" alt="Example GIF" />
-      </p>
-    </td>
-  </tr>
-</table> -->
 <div>
     <p align="center">
         <img src="images/example.gif" alt="Example GIF" />
