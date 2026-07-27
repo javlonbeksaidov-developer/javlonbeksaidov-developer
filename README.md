@@ -44,11 +44,8 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img src="images/example.gif" width="100%" alt="Example GIF" />
-    </td>
-    <td width="50%" align="center">
-      <video src="images/spider-man-2.1920x1080.mp4" width="100%" controls autoplay loop muted></video>
     </td>
   </tr>
 </table>
