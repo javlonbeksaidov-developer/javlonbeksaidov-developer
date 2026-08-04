@@ -18,14 +18,13 @@
           <img src="images/robot.gif" width="90%" alt="Banner" />
 </td>
         <td width="34%" valign="top">
-          <h2 align="center">👨‍💻 Men haqimda</h2>
+          <h2 align="center">👨‍💻 About me</h2>
           <p>
             👤 Name: Javlonbek Saidov <br>
             🎓 Major: Software Engineering (DI23-13) <br>
             🏫 University: TUIT, Samarkand Branch <br>
             💼 Status: Backend Developer <br>
             🚀 Internship: Najot Ta'lim – Backend Python <br>
-            🎯 Goal: Senior Backend Engineer <br>
           </p>
 </td>
         <td width="33%" align="center">
