@@ -14,10 +14,10 @@
 
 <table width="100%">
     <tr>
-        <td width="33%" align="center">
+        <td width="30%" align="center">
           <img src="images/robot.gif" width="90%" alt="Banner" />
 </td>
-        <td width="34%" valign="top">
+        <td width="40%" valign="top">
           <h2 align="center">👨‍💻 About me</h2>
           <p>
             👤 Name: Javlonbek Saidov <br>
@@ -27,7 +27,7 @@
             🚀 Internship: Najot Ta'lim – Backend Python <br>
           </p>
 </td>
-        <td width="33%" align="center">
+        <td width="30%" align="center">
           <img src="images/working.gif" width="280" />
 </td>
     </tr>
