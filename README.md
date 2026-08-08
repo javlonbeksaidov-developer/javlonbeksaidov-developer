@@ -36,7 +36,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,django,postgresql,git,github,html,css,js,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,git,github,html,css,js,vscode,linux" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
