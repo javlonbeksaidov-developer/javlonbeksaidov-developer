@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Javlonbek%20Saidov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Django%20%7C%20Python&descAlignY=58&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Javlonbek%20Saidov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20&descAlignY=58&descSize=18"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Software+Engineering+Student;Django+%7C+DRF+%7C+PostgreSQL;Building+Scalable+Backend+Applications;Future+Senior+Backend+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Software+Engineering;Django+%7C+FastAPI;PostgeSQL+%7C+SQLite" alt="Typing SVG" />
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Javlonbek's GitHub Views" />
