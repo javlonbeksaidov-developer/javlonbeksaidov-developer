@@ -9,6 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Javlonbek's GitHub Views" />
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=javlonbeksaidov-developer&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Javlonbek's GitHub Views" />
+</p>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
