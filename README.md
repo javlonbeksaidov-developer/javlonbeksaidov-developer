@@ -1,6 +1,5 @@
 <div align="center">
 
-
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=200&section=header&text=Javlonbek%20Saidov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20&descAlignY=58&descSize=18"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer;Software+Engineering;Django+%7C+FastAPI;PostgeSQL+%7C+SQLite" alt="Typing SVG" />
@@ -14,22 +13,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C3AED&height=3" />
 
 <table width="100%">
-    <tr>
-        <td width="30%" align="center">
-          <img src="images/robot.gif" width="90%" alt="Banner" />
+
 </td>
-        <td width="40%" valign="top">
+        <td valign="top">
           <h2 align="center">👨‍💻 About me</h2>
           <p>
             👤 Name: Javlonbek Saidov <br>
-            🎓 Major: Software Engineering (DI23-13) <br>
-            🏫 University: TUIT, Samarkand Branch <br>
+            🎓 Major: Software Engineering (DI23-13 & DI23-05) <br>
+            🏫 University: TATU & SAMDU <br>
             💼 Status: Backend Developer <br>
             🚀 Internship: Najot Ta'lim – Backend Python <br>
           </p>
 </td>
-        <td width="30%" align="center">
-          <img src="images/working.gif" width="280" />
+
 </td>
     </tr>
 </table>
@@ -37,7 +33,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,git,github,html,css,js,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,sqlite,postgresql,docker,git,github,html,css,js,vscode,linux" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00D9FF&height=3" />
